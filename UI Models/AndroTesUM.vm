@@ -1,0 +1,52 @@
+{"editors": {
+    "variables": {},
+    "tabName": "AndroTesUM.vm",
+    "packIcon": {
+        "fileJson": "",
+        "fileName": "",
+        "displayName": "",
+        "source": "",
+        "projectName": "",
+        "type": "image"
+    },
+    "isValid": true,
+    "index": 0,
+    "url": "/rest",
+    "customVariables": {
+        "checksum_old": "",
+        "list": [],
+        "checksum_new": 0
+    },
+    "customClasses": {},
+    "pages": [{
+        "pageLifeCycle": {
+            "selectedlifecycle": "",
+            "lifeCycle": []
+        },
+        "checksum_old": 1463210268,
+        "defaultPage": true,
+        "validName": true,
+        "name": "View1",
+        "id": "xxx_3982014",
+        "validUrl": true,
+        "routingUrl": "view1",
+        "content": {
+            "css": ".wrapper_asg_bkgrd",
+            "wrapperclasses": [{
+                "private": false,
+                "protected": false,
+                "name": "wrapper_asg_bkgrd",
+                "active": true,
+                "label": "wrapper_asg_bkgrd",
+                "type": 1
+            }],
+            "wrapperstyles": {},
+            "html": "<div ui-modeller-type=\"header\" id=\"header-pqikobz9cgj\" label=\"View-1\" class=\"header\"><span id=\"span-fe00k5u7fz6\">View-1<\/span><\/div><div ui-modeller-type=\"um-container\" id=\"um-container-bgn35xxue0h\" class=\"um-control\"><button ui-modeller-type=\"button\" label=\"Click Me\" color=\"primary\" mat-flat-button=\"\" badgecolor=\"#ff4081\" badgesize=\"small\" badgeposition=\"above after\" badgetextcolor=\"#ffffff\" badgeoverlap=\"yes\" iconpos=\"left\" id=\"button-elaw6y23zmh\" validations-id-mapping=\"{&quot;Id&quot;:&quot;34f9be17-3169-4502-a46d-98e5c29a3c7f&quot;}\" smopened=\"yes\" webservices=\"{&quot;click&quot;:{&quot;disableEditor&quot;:false,&quot;isSaved&quot;:true,&quot;name&quot;:&quot;click&quot;,&quot;content&quot;:&quot;{\\&quot;collaboration\\&quot;:{},\\&quot;process\\&quot;:{\\&quot;id\\&quot;:\\&quot;Process_1\\&quot;},\\&quot;BPMNDiagram\\&quot;:{\\&quot;BPMNPlane\\&quot;:{\\&quot;BPMNEdge\\&quot;:[],\\&quot;BPMNShape\\&quot;:[]},\\&quot;id\\&quot;:\\&quot;Process_1_ve\\&quot;,\\&quot;bpmnElement\\&quot;:\\&quot;Process_1\\&quot;}}&quot;,&quot;id&quot;:&quot;process_editor_click 1610353143456&quot;,&quot;description&quot;:&quot;&quot;,&quot;eventType&quot;:0,&quot;scriptId&quot;:&quot;scriptID_n4mbw&quot;}}\" SMVariables=\"{}\" class=\"um-button-icon um-mat-button um-primary-button mat-flat-button mat-primary\"><span data-label-wrapper=\"\" data-invisible=\"\" id=\"span-gso9la69gfg\" class=\"mat-button-wrapper\">Click Me<\/span><span data-menu-wrapper=\"\" id=\"span-3crjzvk9k4e\" class=\"button-menu-span\"><\/span><div data-invisible=\"\" matripple=\"\" id=\"div-wxcdyz69y1\" class=\"mat-button-ripple mat-ripple\"><\/div><div data-invisible=\"\" id=\"div-sowa26150i\" class=\"mat-button-focus-overlay\"><\/div><\/button><\/div>"
+        },
+        "checksum_new": 4291925719
+    }],
+    "assets": [],
+    "id": "mdt_visual_editor_root",
+    "validations": {},
+    "globalCss": "*{ box-sizing: border-box; } body{margin: 0;} .fix8d0a106e05b2{position: fixed;}"
+}}
